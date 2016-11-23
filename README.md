@@ -5,3 +5,7 @@ public void Newdemo(){
   System.out.println("You can me");
 }
 说明文件，机器人2号
+public void Onedemo(){
+  System.out.println("one");
+}
+说明文件,机器人3号
